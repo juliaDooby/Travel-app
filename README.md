@@ -14,7 +14,7 @@
 
 ---
 
-##### Here's features included in this project
+### Here's features included in this project
 
 - So, This is not just a simple landing page
 
@@ -25,7 +25,7 @@
 - A call to action section for mobile apps
 - And a big footer section with many site and social links
   
-While developing the app, I:
+### While developing the app, I:
 
 - implemented Next.js 13 most modern best practices
 - improved your code architecture and make your components reusable
