@@ -1,11 +1,11 @@
 
 ## A Feature-Rich Travel App
 
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_2.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_4.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_5.JPG" width="100%" height="20%"></img></div>
 
  [demo](https://juliadooby.github.io/Travel-app/)
  ---
