@@ -28,7 +28,7 @@
 ### While developing the app, I:
 
 - implemented Next.js 13 most modern best practices
-- improved your code architecture and make your components reusable
+- improved code architecture and make your components reusable
 - utilized Tailwind CSS
 - started with the mobile-first approach for maximum responsiveness
 - made use of TypeScript
