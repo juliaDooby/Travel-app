@@ -8,13 +8,14 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+<a href="https://juliadooby.github.io/Travel-app/"><strong>➥Demo</strong></a>
+
 <div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_1.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_2.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_3.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_4.JPG" width="100%" height="20%"></img></div>
 <div align="center"><img src="https://github.com/juliaDooby/Travel-app/blob/main/travel_5.JPG" width="100%" height="20%"></img></div>
 
- [demo](https://juliadooby.github.io/Travel-app/)
  ---
  
 ### Features:
